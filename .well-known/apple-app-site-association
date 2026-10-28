@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["L537769T9Z.com.aaronmusa.chorito"],
+        "components": [
+          { "/": "/chorito/auth/*", "comment": "Email verification, password reset and email change links" }
+        ]
+      }
+    ]
+  }
+}
